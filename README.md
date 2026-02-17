@@ -4,6 +4,24 @@ Implementation and evaluation of classical and deep learning-based image denoisi
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
+![Image Processing](https://img.shields.io/badge/Image-Processing-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
+---
+
+## Visual Preview
+<p align="center">
+  <img src="results/kodak1_gaussian_comparison.png" width="850">
+
+</p>
+
+
+
+---
+
 ## Abstract
 
 This project presents a comparative experimental study between classical statistical denoising algorithms and deep learning-based architectures for image restoration.
